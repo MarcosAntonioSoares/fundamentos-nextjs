@@ -1,2 +1,2 @@
 # ignews
-# FundamentosdoNextjs
+# Fundamentos Nextjs
