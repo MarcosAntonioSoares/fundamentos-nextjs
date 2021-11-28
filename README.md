@@ -4,7 +4,7 @@
 ## Criar arquivo
 .env.local
 
-```
+```ENV
 #Stripe
 STRIPE_API_KEY=
 NEXT_PUBLIC_STRIPE_PUBLIC_KEY=
