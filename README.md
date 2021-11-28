@@ -1,25 +1,25 @@
 # ignews
 # Fundamentos Nextjs
 
-Criar arqquivo
+## Criar arquivo
 .env.local
 
 ```
-// Stripe
+#Stripe
 STRIPE_API_KEY=
 NEXT_PUBLIC_STRIPE_PUBLIC_KEY=
 STRIPE_WEBHOOK_SECRET=
 STRIPE_SUCCESS_URL=
 STRIPE_CANCEL_URL=
 
-// Github 
+#Github 
 GITHUB_CLIENT_ID=
 GITHUB_CLIENT_SECRET=
 
-// FaunaDB
+#FaunaDB
 FAUNADB_KEY=
 
-// Prismic
+#Prismic
 PRISMIC_ENDPOINT=
 PRISMIC_ACCESS_TOKEN=
 
